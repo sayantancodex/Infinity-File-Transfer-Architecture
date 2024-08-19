@@ -1,7 +1,5 @@
 # Infinity File Transfer Architecture
 
-![Infinity File Transfer](https://your-image-link-here.com/banner.png)
-
 ## Overview
 
 The **Infinity File Transfer Architecture** is a cross-platform file transfer system that ensures secure and reliable data transmission between Windows and Linux systems. The architecture uses custom encryption and decryption methods, leveraging platform-specific tools like Netcat for efficient file transfers.
@@ -30,7 +28,7 @@ The **Infinity File Transfer Architecture** is a cross-platform file transfer sy
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/infinity-file-transfer.git
+    git clone https://github.com/sayantancodex/Infinity-File-Transfer-Architecture.git
     cd infinity-file-transfer
     ```
 
